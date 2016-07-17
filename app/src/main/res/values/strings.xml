@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="questionLabelString">Question</string>
+    <string name="questionTextString">Question Text</string>
+    <string name="answerLabelString">Answer</string>
+    <string name="answerTextString">Answer Text</string>
+    <string name="buttonLabelString">Submit</string>
+</resources>
